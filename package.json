@@ -4,7 +4,7 @@
   "repository": {},
   "license": "MPL-2.0",
   "dependencies": {
-    "node-sass": "^5.0.0"
+    "node-sass": "^9.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.8.3",
@@ -27,7 +27,7 @@
     "eslint-plugin-react": "7.18.3",
     "eslint-plugin-spidermonkey-js": "file:tools/lint/eslint/eslint-plugin-spidermonkey-js",
     "prettier": "1.19.1",
-    "yarn": "1.22.0"
+    "yarn": "1.22.13"
   },
   "notes(private)": "We don't want to publish to npm, so this is marked as private",
   "private": true
